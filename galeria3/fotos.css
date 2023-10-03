@@ -1,0 +1,65 @@
+
+body{
+    font-family: 'Poor Story', cursive;
+
+    background-color: #C8E4B2;
+
+}
+.quadrado1{
+    height: 280px;
+    width: 320px;
+    border: black solid 2px;
+    background-color: wheat ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0.2rem 1.2rem rgba(0,0,0,0.2);
+}
+.texto1{
+    font-size: 25px;
+    translate: 0px 130px;
+}
+.img{
+    background-image: url(Captura\ de\ tela\ 2023-09-18\ 104750.png);
+    height: 230px;
+    width: 280px;
+    background-size: cover;
+    translate: 23px -268px;
+
+}
+.item {
+   
+}
+.item2{
+    width: 30%;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+}
+
+
+
+.quadrado2{
+    height: 280px;
+    width: 320px;
+    border: black solid 2px;
+    background-color: wheat ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px;
+    box-shadow: 0 0.2rem 1.2rem rgba(0,0,0,0.2);
+
+    translate: 390px -513px;
+}
+.texto2{
+    font-size: 25px;
+    translate: 0px 130px;
+}
+.img2{
+    background-image: url(ballons.png);
+    height: 230px;
+    width: 280px;
+    background-size: cover;
+    translate: 412px -780px;
+}
